@@ -4,5 +4,5 @@
 ## Example
 ```
 chmod +x sbv2srt.py
-./sbv2srt.py skulk_01/skulk_01.sbv
+./sbv2srt.py skulk_01.sbv
 ```
